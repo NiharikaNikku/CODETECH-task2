@@ -1,9 +1,14 @@
 # CODETECH-task2
 NAME:NIHARIKA BANALA
+
 COMPANY:CODETECH IT SOLUTIONS
+
 ID:CT3MTDS100
+
 DOMAIN:Data Scientist
+
 DURATION:Sep15-Dec15 2024
+
 MENTOR:N.Santhosh kumar
 
 **OVER VIEW OF THE PROJECT**
@@ -14,11 +19,16 @@ MENTOR:N.Santhosh kumar
 
 **KEY ACTIVITIES**
 Visualization 
+
 Data manipulation and analysis
+
 Clustring the datasets
 
 **TECHNOLOGIES USED**
-Machinelearning:To improve database management, cataloging, and metadata management: 
+Machinelearning:To improve database management, cataloging, and metadata management
+
 Pandas:Used for data manipulation and analysis
+
 Matplotlib:Employed for creating static,animated,and interactive visualization
+
 Numpy:Working with arrays
